@@ -80,7 +80,7 @@ cd xxxxxxxxxxx
 
 **5.Create a folder named by your team name under projects. Generate a README.md file which contains the information of your team, your project and the link to your github repository.**
 
-	Team Number:
+	Team Name:
 	Job Allocation:
 	Project Intro:
 	Video Link:
