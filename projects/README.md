@@ -4,5 +4,6 @@ Job Allocation:
 Project Intro:
 Video Link:
 Repository Addr:
-(Repository must contain ppt slides.)
 ```
+
+This file must be created under the group name folder！
