@@ -1,6 +1,6 @@
-Team Name:Team No.2
+Team Name:Team 2 (MetaAds)
 
-Job Allocation:
+Job Allocation:Ahmad Auwal Smart contract/ Frontend 
 
 Project Intro:
 
