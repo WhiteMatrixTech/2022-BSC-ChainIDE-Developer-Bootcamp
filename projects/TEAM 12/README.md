@@ -11,11 +11,11 @@ CRYPTWEB - Send & Receive cryptocurrent around the world with our easy to use we
 
 ## [AUTHENTICATION](https://drive.google.com/file/d/1Nu_UZtODMlCWIhCWt7z7FFJf6EFCLYeO/view?usp=sharing)
 
--https://drive.google.com/file/d/1Nu_UZtODMlCWIhCWt7z7FFJf6EFCLYeO/view?usp=sharing
+- https://drive.google.com/file/d/1Nu_UZtODMlCWIhCWt7z7FFJf6EFCLYeO/view?usp=sharing
 
 ## [SEND CRYPTOCURRENCY FEATURE](https://drive.google.com/file/d/1mbwwLvDjU7a9RWacHyivBfU79cI0i3ux/view?usp=sharing)
 
--https://drive.google.com/file/d/1mbwwLvDjU7a9RWacHyivBfU79cI0i3ux/view?usp=sharing
+- https://drive.google.com/file/d/1mbwwLvDjU7a9RWacHyivBfU79cI0i3ux/view?usp=sharing
 
 # Repository Addr: 
 ## [Repository](https://github.com/paschal533/TEAM-12-Project-BSC-ChainIDE.git) 
